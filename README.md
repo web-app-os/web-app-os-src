@@ -109,13 +109,13 @@ wao_verion: Alter to the version of WAO you acquired.
 -------------
 ####Please install the pdf.
 
-*English:[FunctionList.pdf](https://github.com/hws-aoyagi/web-app-os-src/blob/master/documents/Englilsh/FunctionList.pdf?raw=true)*  
-*Japanese:[機能一覧.pdf](https://github.com/hws-aoyagi/web-app-os-src/blob/master/documents/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E6%A9%9F%E8%83%BD%E4%B8%80%E8%A6%A7.pdf?raw=true)*
+*English:[FunctionList.pdf](https://github.com/web-app-os/web-app-os-src/blob/master/documents/Englilsh/FunctionList.pdf?raw=true)*  
+*Japanese:[機能一覧.pdf](https://github.com/web-app-os/web-app-os-src/blob/master/documents/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E6%A9%9F%E8%83%BD%E4%B8%80%E8%A6%A7.pdf?raw=true)*
 
 ◆Attribute Spec
 ---------------
 ####Please install the pdf.
 
-*English:[WebAppOS__Attribute_Spec_β.pdf](https://github.com/hws-aoyagi/web-app-os-src/blob/master/documents/Englilsh/WebAppOS_Attribute_Spec_%CE%B2.pdf?raw=true)*  
-*Japanese:[WebAppOS_API仕様書β.pdf](https://github.com/hws-aoyagi/web-app-os-src/blob/master/documents/%E6%97%A5%E6%9C%AC%E8%AA%9E/WebAppOS_API%E4%BB%95%E6%A7%98%E6%9B%B8_%CE%B2.pdf?raw=true)*
+*English:[WebAppOS__Attribute_Spec_β.pdf](https://github.com/web-app-os/web-app-os-src/blob/master/documents/Englilsh/WebAppOS_Attribute_Spec_%CE%B2.pdf?raw=true)*  
+*Japanese:[WebAppOS_API仕様書β.pdf](https://github.com/web-app-os/web-app-os-src/blob/master/documents/%E6%97%A5%E6%9C%AC%E8%AA%9E/WebAppOS_API%E4%BB%95%E6%A7%98%E6%9B%B8_%CE%B2.pdf?raw=true)*
 emphasized text
