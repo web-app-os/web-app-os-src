@@ -13,5 +13,3 @@ You can Cook a Full Customized Relational Data Bind Web Application.
 For more information, please see the following page.
 
 https://github.com/web-app-os/web-app-os
-
-emphasized text
