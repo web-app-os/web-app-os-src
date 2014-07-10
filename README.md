@@ -4,11 +4,7 @@ Web App OS
 ♦Introduction
 ---------------
 
-The most advanced how to develop web application in the world. 
-
-Without programing using code, such as PHP, Java, Perl, 
-
-You can Cook a Full Customized Relational Data Bind Web Application.
+####It’s the most innovative and advanced way to build full customizable relational data binding web services without any server-side programming languages.
 
 ♦Setup
 -------
@@ -27,7 +23,7 @@ WAO needs the following a software to run on at least.
 ・Tomcat 7  
 ・PostgreSQL9.2
 
-1. Download a wao_all_beta_0_1_X.zip from sourceforge
+1. Download a wao_all_beta_0_1_X.zip from GitHub
 
 2. Extract to htdocs in Apache and change the folder name to the context name of the site
 
