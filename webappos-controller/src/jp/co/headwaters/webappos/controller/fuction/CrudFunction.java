@@ -161,7 +161,10 @@ public class CrudFunction extends AbstractFunction {
 		if (example == null
 				|| example.getOredCriteria().size() == 0
 				|| example.getOredCriteria().get(0).getCriteria().size() == 0) {
-			throw new WebAppOSException("err.200"); //$NON-NLS-1$
+			// 2014/09/15 検索条件が取得できなかった場合、エラーとしないように修正
+			// 未ログイン時にログイン情報でselectした際、エラーとなってしまう為
+			//throw new WebAppOSException("err.200"); //$NON-NLS-1$
+			return 0;
 		}
 
 		Integer count = this._sqlSession.selectOne(DaoUtils.getMapperName(CrudEnum.COUNT.getMethod(), function.getTarget()), example);
